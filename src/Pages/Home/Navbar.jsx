@@ -28,7 +28,7 @@ function Navbar() {
 
   useEffect(() => {
     if (window.innerWidth <= 1200) {
-      closeMenu;77
+      closeMenu;
     }
   }, []);
 
